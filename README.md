@@ -34,7 +34,8 @@ Designed with simplicity and usability in mind, Vaultix helps users organize pas
 ## 📸 Screenshots
 
 
-* Home Screen : <img width="1787" height="1031" alt="home screen" src="https://github.com/user-attachments/assets/b241c291-7362-4363-bb74-e66ac35c0ac7" />
+* Home Screen : <img width="1787" height="1031" alt="homescreen" src="https://github.com/user-attachments/assets/ca55096b-bc03-4212-a176-7e95b9b769f8" />
+
 
 
 * Lock Screen : <img width="1002" height="727" alt="lock interface" src="https://github.com/user-attachments/assets/ef689fa6-122e-4b69-8cd1-2933101d8fb0" />
