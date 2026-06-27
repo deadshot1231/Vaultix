@@ -50,7 +50,7 @@ Designed with simplicity and usability in mind, Vaultix helps users organize pas
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Vaultix.git
+git clone https://github.com/deadshot1231/Vaultix.git
 cd Vaultix
 ```
 
